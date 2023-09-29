@@ -20,7 +20,7 @@ public class IdLocator_assignment {
 		
 		WebElement messg=driver.findElement(By.id("single-input-field"));
 		messg.click();
-		messg.sendKeys("Happy Onam");
+		messg.sendKeys("Happy Onam to All");
 		
 	}
 
